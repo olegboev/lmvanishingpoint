@@ -38,12 +38,15 @@ python main.py --input data/input_image.jpg
 ## Illustrations
 
 ![Image Segments](doc/image_segments.jpg)
+
 The image shows 660 detected line segments forming a vertical vanishing point.
 
 ![Intersections and Vanishing Point Locations](doc/intersections.png)
+
 Zoomed-in view of pairwise line intersections of the detected segments, their centroid (yellow), and the found MLE-optimal vanishing point location (red).
 
 ![Cost Function Level Set and Vanishing Point Iterations](doc/levels.png)
+
 The image displays the error function level set and estimated vanishing point locations through the Levenberg-Marquardt method iterations.
 
 ## Acknowledgments
