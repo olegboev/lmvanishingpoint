@@ -1,6 +1,6 @@
-# Leveraging the Levenberg-Marquardt Method for Vanishing Point Detection
+# Leveraging the Levenberg-Marquardt Method on Vanishing Point Estimation
 
-This repository contains code and illustrations for the tutorial "Leveraging the Levenberg-Marquardt Method for Vanishing Point Detection in Computer Vision Tasks"
+This repository contains code and illustrations for the Medium post [Leveraging the Levenberg-Marquardt Method on Vanishing Point Estimation](https://medium.com/@olegboev/leveraging-the-levenberg-marquardt-method-on-vanishing-point-estimation-in-computer-vision-5b10668b1ad5). 
 
 ## File Structure
 
